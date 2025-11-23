@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+streamlit
+torch
+transformers
+peft
+datasets
+scikit-learn
+pandas
+numpy
+python-dotenv
+requests
+pydantic
+tqdm
+accelerate
+bitsandbytes
+openai
